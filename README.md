@@ -1,2 +1,2 @@
 # hello-world
-first reposity
+first reposity to get started with GitHub
